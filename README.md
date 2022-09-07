@@ -42,16 +42,16 @@ This charting of average trip duration by birth year shows two things:
 - the bikeshare userbase covers all age demographics, from teenagers to nonagenarians (and older);
 - teenagers and early-twenty-somethings enjoy taking much longer bikerides than older users.
 ***
-![NYC CitiBike Trip Duration](Images/nycCB_trip_duration.png)
+![NYC CitiBike Trip Duration](Resources/pic7.png)
 
 This graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
 ***
-![NYC CitiBike Trip Duration by Gender](Images/nycCB_trip_duration_gender.png)
+![NYC CitiBike Trip Duration by Gender](Resources/pic8.png)
 
 This breakdown of number of rides by duration, separated by gender, makes it even more apparent how many more rides are taken by male-identifying customers.
 ***
 
-![NYC CitiBike Trips by User Type, by Day, by Gender](Images/nycCB_trips_user_day_gender.png)
+![NYC CitiBike Trips by User Type, by Day, by Gender](Resources/pic9.png)
 
 Lastly, this heatmap reinforces how much of the userbase is dominated by male-identifying, subscribing users. Why this is the case is unclear and warrants additional study.
 
